@@ -1,0 +1,8 @@
+torch==2.13.0
+torchmetrics==1.9.0
+torchvision==0.28.0
+Pillow
+PyYAML
+matplotlib
+pycocotools
+boto3
